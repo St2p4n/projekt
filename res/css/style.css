@@ -1,0 +1,24 @@
+*{
+    font-family: 'VT323',  monospace;
+}
+
+#cookie {
+  
+    margin-top: 390px;
+    margin-right: 330px;
+}
+body{
+     background-image: url(https://interfaceingame.com/wp-content/uploads/league-of-legends/league-of-legends-lobby-1920x1080.jpg);
+     background-size: 2;
+     
+}
+ 
+#counter {
+    font-size: 30px;
+    color: white;
+    margin-right: 330px;
+}
+img{
+    width: 200px;
+    border-radius: 200px;
+}
